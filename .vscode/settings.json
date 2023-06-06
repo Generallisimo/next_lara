@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1112,
+            "driver": "MySQL",
+            "name": "Front_Back",
+            "database": "next_lara",
+            "username": "root",
+            "password": "root"
+        }
+    ]
+}
